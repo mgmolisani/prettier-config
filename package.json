@@ -1,0 +1,16 @@
+{
+  "name": "@mgmolisani-private/prettier-config",
+  "version": "1.0.1",
+  "description": "mgmolisani Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmolisani/prettier-config.git"
+  },
+  "author": "Mike Molisani <mgmolisani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgmolisani/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mgmolisani/prettier-config#readme"
+}
