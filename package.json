@@ -1,6 +1,6 @@
 {
   "name": "@mgmolisani-private/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mgmolisani Prettier config",
   "main": "index.json",
   "repository": {
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/mgmolisani/prettier-config/issues"
   },
-  "homepage": "https://github.com/mgmolisani/prettier-config#readme"
+  "homepage": "https://github.com/mgmolisani/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.17.0"
+  }
 }

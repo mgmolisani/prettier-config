@@ -10,11 +10,11 @@
 $ npm i -D @mgmolisani-private/prettier-config
 ```
 
-**Edit `package.json`**:
+**Edit `.prettierrc.js`**:
 
-```jsonc
-{
-  // ...
-  "prettier": "@mgmolisani-private/prettier-config"
+```javascript
+module.exports = {
+    ...require(`@mgmolisani-private/prettier-config`),
+    // ...
 }
 ```
